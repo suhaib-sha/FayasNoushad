@@ -42,3 +42,13 @@ If you like my opensource repositories? Then please star the repository and plea
 <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
     <img src="https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow"/>
 </a>
+
+---
+
+<p align="center">
+    <a href="https://github.com/FayasNoushad">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=darkhub"/>
+    </a>
+</p>
