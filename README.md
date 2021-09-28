@@ -25,7 +25,7 @@ If you like my opensource repositories? Then please star the repository and plea
     <img src="https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue"/>
 </a>
 <a href="https://telegram.me/FayasNoushad">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>l
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
 </a>
 <a href="https://www.linkedin.com/in/fayasnoushad">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"/>
