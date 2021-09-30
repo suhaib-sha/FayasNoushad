@@ -51,6 +51,6 @@ If you like my opensource repositories? Then please star the repository and plea
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/>
         <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&theme=react-dark&custom_title=Contribution+Graph"/>
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&theme=tokyonight"/>
-        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=darkhub"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=1&theme=tokyonight"/>
     </a>
 </p>
