@@ -45,6 +45,25 @@ If you like my opensource repositories? Then please star the repository and plea
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
+[![GNU Bash](https://img.shields.io/badge/GNU_Bash-grey?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
+[![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
+[![Vercel](https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
+[![Replit](https://img.shields.io/badge/Replit-black?&style=for-the-badge&logoColor=white&logo=replit)](https://replit.com)
+[![Json](https://img.shields.io/badge/Json-grey?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)
+
+---
+
 <p align="center">
     <a href="https://github.com/FayasNoushad">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
