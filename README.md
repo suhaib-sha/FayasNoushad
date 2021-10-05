@@ -19,33 +19,15 @@ If you like my opensource repositories? Then please star the repository and plea
 
 ## My accounts
 
-<a href="https://twitter.com/FayasNoushad">
-    <img src="https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
-</a>
-<a href="https://instagram.com/TheFayas">
-    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue"/>
-</a>
-<a href="https://telegram.me/FayasNoushad">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
-</a>
-<a href="https://www.linkedin.com/in/fayasnoushad">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://www.quora.com/profile/Fayas-Noushad-1">
-    <img src="https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=quora"/>
-</a>
-<a href="https://github.com/FayasNoushad">
-    <img src="https://img.shields.io/github/followers/FayasNoushad?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
-</a>
-<a href="https://gitlab.com/FayasNoushad">
-    <img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab"/>
-</a>
-<a href="https://stackoverflow.com/users/16129096/fayas-noushad">
-    <img src="https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow"/>
-</a>
+[![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FayasNoushad)
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/FayasNoushad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayasnoushad)
+[![Quora](https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Fayas-Noushad-1)
+[![GitHub](https://img.shields.io/github/followers/FayasNoushad?label=GitHub&logo=github&style=for-the-badge&color=blue)](https://github.com/FayasNoushad)
+[![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/FayasNoushad)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16129096/fayas-noushad)
 
 ---
 
