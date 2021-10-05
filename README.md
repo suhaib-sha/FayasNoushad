@@ -1,5 +1,7 @@
 # Hello, I am Fayas 👋
 
+---
+
 ## About Me
 
 <samp>
