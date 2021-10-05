@@ -1,5 +1,7 @@
 # Hello, I am Fayas 👋
 
+![Bannner](/banner.png)
+
 ---
 
 ## About Me
