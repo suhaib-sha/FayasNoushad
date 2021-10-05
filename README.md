@@ -48,6 +48,7 @@ If you like my opensource repositories? Then please star the repository and plea
 [![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
 [![Replit](https://img.shields.io/badge/Replit-667881?&style=for-the-badge&logoColor=white&logo=replit)](https://replit.com)
+[![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/features/actions)
 
 ---
 
