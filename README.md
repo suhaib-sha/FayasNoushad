@@ -58,8 +58,8 @@ If you like my opensource repositories? Then please star the repository and plea
     <a href="https://github.com/FayasNoushad">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/>
-        <img width="50%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=2&column=3&theme=tokyonight"/>
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&theme=tokyonight"/>
+        <img width="54%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=2&column=3&theme=tokyonight"/>
+        <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&theme=tokyonight"/>
         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&theme=react-dark&custom_title=Contribution+Graph"/>
     </a>
 </p>
