@@ -1,4 +1,6 @@
-## Hello, I am Fayas 👋
+# Hello, I am Fayas 👋
+
+## About Me
 
 <samp>
 My name is <b>Fayas</b>. I am a 15 years old boy and I was born on 30th December in 2005. I am a 10th standard finished student. I'm living in <a href="https://en.m.wikipedia.org/wiki/Palakkad_district">Palakkad, Kerala, India</a>. I know <a href="https://en.m.wikipedia.org/wiki/Malayalam">Malayalam</a>, <a href="https://en.m.wikipedia.org/wiki/Tamil">Tamil</a>, and <a href="https://en.m.wikipedia.org/wiki/English">English</a> languages.
@@ -14,6 +16,8 @@ If you like my opensource repositories? Then please star the repository and plea
 </samp>
 
 ---
+
+## My accounts
 
 <a href="https://twitter.com/FayasNoushad">
     <img src="https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
@@ -45,6 +49,8 @@ If you like my opensource repositories? Then please star the repository and plea
 
 ---
 
+## Tools and Skills
+
 [![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
@@ -63,6 +69,8 @@ If you like my opensource repositories? Then please star the repository and plea
 [![Json](https://img.shields.io/badge/Json-grey?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)
 
 ---
+
+## Stats
 
 <p align="center">
     <a href="https://github.com/FayasNoushad">
