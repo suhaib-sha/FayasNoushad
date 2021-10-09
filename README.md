@@ -2,7 +2,7 @@
 
 ---
 
-## My accounts
+## Accounts
 
 [![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FayasNoushad)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
@@ -38,7 +38,7 @@
 
 ---
 
-## Stats
+## Statistics
 
 <p align="center">
     <a href="https://github.com/FayasNoushad">
@@ -49,3 +49,5 @@
         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&theme=react-dark&custom_title=Contribution+Graph"/>
     </a>
 </p>
+
+---
