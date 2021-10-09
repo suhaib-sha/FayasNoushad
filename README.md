@@ -1,4 +1,4 @@
-[![Bannner](/banner.png)</br></br>Learn more about me...](https://fayas.me)
+[![Bannner](/banner.png)</br>Learn more about me...](https://fayas.me)
 
 ---
 
