@@ -2,8 +2,6 @@
 
 ---
 
-## Accounts
-
 [![Twitter](https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/FayasNoushad)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/TheFayas)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
@@ -15,8 +13,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16129096/fayas-noushad)
 
 ---
-
-## Tools and Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
@@ -38,14 +34,14 @@
 
 ---
 
-## Statistics
-
 <p align="center">
     <a href="https://github.com/FayasNoushad">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight&date_format=j%20M%5B%20Y%5D&stroke=FFFFFF"/>
+    <hr/>
         <img width="54%" src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&row=2&column=3&theme=tokyonight"/>
         <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&theme=tokyonight"/>
+    <hr/>
         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&theme=react-dark&custom_title=Contribution+Graph"/>
     </a>
 </p>
